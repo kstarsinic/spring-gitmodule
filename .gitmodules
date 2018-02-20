@@ -1,0 +1,36 @@
+[submodule "Spring-Integration-in-Action"]
+	path = Spring-Integration-in-Action
+	url = https://github.com/spring-projects/Spring-Integration-in-Action.git
+[submodule "gradle-init-scripts"]
+	path = gradle-init-scripts
+	url = https://github.com/spring-projects/gradle-init-scripts.git
+[submodule "spring-data-book"]
+	path = spring-data-book
+	url = https://github.com/spring-projects/spring-data-book.git
+[submodule "spring-data-commons"]
+	path = spring-data-commons
+	url = https://github.com/spring-projects/spring-data-commons.git
+[submodule "spring-data-document-examples"]
+	path = spring-data-document-examples
+	url = https://github.com/spring-projects/spring-data-document-examples.git
+[submodule "spring-data-rest-webmvc"]
+	path = spring-data-rest-webmvc
+	url = https://github.com/spring-projects/spring-data-rest-webmvc.git
+[submodule "spring-data-rest"]
+	path = spring-data-rest
+	url = https://github.com/spring-projects/spring-data-rest.git
+[submodule "spring-framework"]
+	path = spring-framework
+	url = https://github.com/spring-projects/spring-framework.git
+[submodule "spring-hateoas"]
+	path = spring-hateoas
+	url = https://github.com/spring-projects/spring-hateoas.git
+[submodule "spring-roo-backend-services"]
+	path = spring-roo-backend-services
+	url = https://github.com/spring-projects/spring-roo-backend-services.git
+[submodule "spring-ide"]
+	path = spring-ide
+	url = https://github.com/spring-projects/spring-ide.git
+[submodule "spring-boot"]
+	path = spring-boot
+	url = https://github.com/spring-projects/spring-boot
